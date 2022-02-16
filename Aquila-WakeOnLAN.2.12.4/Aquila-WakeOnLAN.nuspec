@@ -8,7 +8,7 @@
     <owners>bibimagic</owners>
     <licenseUrl>https://wol.aquilatech.com/help/</licenseUrl>
     <projectUrl>https://wol.aquilatech.com/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/bibimagic/Aquila-WakeOnLAN-chocolatey-package/40a3fbf209c7b483570e9c5d430252b495f9cf1f/wol_logo.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/bibimagic/Aquila-WakeOnLAN-chocolatey-package/wol_logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>WakeOnLAN is WOL / Shutdown software for Windows.
 	A powerful WOL, ping, shutdown, GUI application.
