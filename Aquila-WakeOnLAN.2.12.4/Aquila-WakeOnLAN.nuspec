@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>aquila-wakeonlan</id>
+    <version>2.12.4</version>
+    <title>Aquila-WakeOnLAN (Install)</title>
+    <authors>Aquila Technology</authors>
+    <owners>bibimagic</owners>
+    <licenseUrl>https://wol.aquilatech.com/help/</licenseUrl>
+    <projectUrl>https://wol.aquilatech.com/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/bibimagic/ico/7fab16c98c48efbd3a2f0f140e3b1b51e91cdc9a/wol_logo.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>WakeOnLAN is WOL / Shutdown software for Windows.
+	A powerful WOL, ping, shutdown, GUI application.
+	Do you need a robust, reliable solution for remote computer control and access?
+	WakeOnLAN might be the program you want to use if you’re looking for something that is both powerful functionally and easy to use.</description>
+    <summary>Performs the following tasks
+		WakeUp a remote computer that is powered off
+		Shutdown a remote computer
+		Ping the selected remote computer, to display it’s status
+		Perform an emergency shutdown of ALL defined computers at once
+		Connect to the remote server via Remote Desktop
+		Listen for WOL packets (to aid in troubleshooting)
+		Schedule wake ups, shutdowns
+		Command line and GUI interfaces</summary>
+    <copyright>Aquila Technology</copyright>
+	<releaseNotes>Improved validation in Properties panel, during copy/paste operations
+    Fixed some French translation mistakes</releaseNotes>
+	<packageSourceUrl>https://community.chocolatey.org/api/v2/package/Aquila-WakeOnLAN/2.12.4</packageSourceUrl>
+	<docsUrl>https://wol.aquilatech.com/help/</docsUrl>
+	<mailingListUrl>https://github.com/basildane/WakeOnLAN/issues</mailingListUrl>
+	<bugTrackerUrl>https://github.com/basildane/WakeOnLAN/issues</bugTrackerUrl>
+	<projectSourceUrl>https://github.com/basildane/WakeOnLAN</projectSourceUrl>
+    <tags>WakeOnLAN WOL WakeUp remote desktop RDP Shutdown ping</tags>
+  </metadata>
+</package>
