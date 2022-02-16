@@ -8,7 +8,7 @@
     <owners>bibimagic</owners>
     <licenseUrl>https://wol.aquilatech.com/help/</licenseUrl>
     <projectUrl>https://wol.aquilatech.com/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/bibimagic/ico/7fab16c98c48efbd3a2f0f140e3b1b51e91cdc9a/wol_logo.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/bibimagic/Aquila-WakeOnLAN-chocolatey-package/40a3fbf209c7b483570e9c5d430252b495f9cf1f/wol_logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>WakeOnLAN is WOL / Shutdown software for Windows.
 	A powerful WOL, ping, shutdown, GUI application.
@@ -26,7 +26,7 @@
     <copyright>Aquila Technology</copyright>
 	<releaseNotes>Improved validation in Properties panel, during copy/paste operations
     Fixed some French translation mistakes</releaseNotes>
-	<packageSourceUrl>https://community.chocolatey.org/api/v2/package/Aquila-WakeOnLAN/2.12.4</packageSourceUrl>
+	<packageSourceUrl>https://github.com/bibimagic/Aquila-WakeOnLAN-chocolatey-package/tree/main/Aquila-WakeOnLAN.2.12.4</packageSourceUrl>
 	<docsUrl>https://wol.aquilatech.com/help/</docsUrl>
 	<mailingListUrl>https://github.com/basildane/WakeOnLAN/issues</mailingListUrl>
 	<bugTrackerUrl>https://github.com/basildane/WakeOnLAN/issues</bugTrackerUrl>
